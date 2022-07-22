@@ -1,0 +1,16 @@
+/* .nav>li>a{
+  color: white;
+} */
+
+.carousel-item img{
+  height: 100vh;
+
+  /* vh vw
+  view port 의 height width
+  반응형 웹사이트에서 화면이 보이는 만큼 : veiw port
+  ex. 100vh : 보이는 화면의 높이를 가득 채워라 */
+}
+
+nav{
+  z-index: 1;
+}
